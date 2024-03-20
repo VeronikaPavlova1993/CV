@@ -21,25 +21,26 @@
 <Html>
   <table><tr>
     <td><strong>Образование</strong>
-    <br>высшее
-    <br>курсы
+    <tr>высшее</tr>
+    <tr>курсы</tr>
+    <tr>курсы</tr>
     </td>
     <td>Годы обучения
-    <br>2011 - 2016гг
-    <br>март - сетябрь 2023г.
-    <br>декабрь 2023 - наст.время
+    <tr>2011 - 2016гг</tr>
+    <tr>март - сетябрь 2023г.</tr>
+    <tr>декабрь 2023 - наст.время</tr>
     </td>
     <td><strong>Учебное заведение</strong>
-    <br> Самарский Государственный университет Путей Сообщения,
+    <tr> Самарский Государственный университет Путей Сообщения,
          Электротехнический факультет,
-         специализация: Электроснабжение железных дорог.
-    <br> The Rolling Scopes School
+         специализация: Электроснабжение железных дорог.</tr>
+    <tr> The Rolling Scopes School
          JavaScript/Front-End
-         сертификат: https://app.rs.school/certificate/5gk7jj0g
-    <br> Образовательная платформа Skillbox,
-         ReactJS
+         сертификат: https://app.rs.school/certificate/5gk7jj0g</tr>
+    <tr> Образовательная платформа Skillbox,
+         ReactJS<tr/>
     </td>
-  </tr>
+    </tr>
   </table>
 </Html>
 
