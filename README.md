@@ -1,17 +1,14 @@
 # Вероника Павлова
 <Html>
   <table><tr>
-    <td><img src="# Вероника Павлова
-<Html>
-  <table><tr>
-    <td><img src="avatar" width="115" heght=""125></td>
-    <td>Дата рождения: 2 июля 1993(30 лет)
+    <td><img src="https://github.com/VeronikaPavlova1993/CV/blob/main/avatar.jpg" width="115" heght=""125></td>
+    <td>Дата рождения: 2 июля 1993 (30 лет)
     <br><strong>Контактная информация:</strong>
     <br>тел.: +7-927-618-94-39
     <br>адресс: Samara, Russia
     <br>е-mail: veronichka.danilina@mail.ru
     </td>
-    <td><strong>Соискание вакансии</strong>
+    <td><strong>Соискание вакансии:</strong>
     <br>должность: Програмист-разработчик
     <br>Зарплата: 40 000 руб
     <br> Формат: удаленно
