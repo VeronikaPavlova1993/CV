@@ -4,7 +4,7 @@
     <td><img src="# Вероника Павлова
 <Html>
   <table><tr>
-    <td><img src="https://github.com/VeronikaPavlova1993/CV/blob/main/89c2f8fe-ec47-4f89-8a44-bd54f636ace8.jpg" width="115" heght=""125></td>
+    <td><img src="avatar" width="115" heght=""125></td>
     <td>Дата рождения: 2 июля 1993(30 лет)
     <br><strong>Контактная информация:</strong>
     <br>тел.: +7-927-618-94-39
