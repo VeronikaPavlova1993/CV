@@ -19,29 +19,33 @@
 
 ## Образование:
 <Html>
-  <table><tr>
-    <td><strong>Образование</strong>
-    <tr>высшее</tr>
-    <tr>курсы</tr>
-    <tr>курсы</tr>
-    </td>
-    <td>Годы обучения
-    <tr>2011 - 2016гг</tr>
-    <tr>март - сетябрь 2023г.</tr>
-    <tr>декабрь 2023 - наст.время</tr>
-    </td>
-    <td><strong>Учебное заведение</strong>
-    <tr> Самарский Государственный университет Путей Сообщения,
+<table>
+  <tr>
+    <th><strong>Образование</strong></th>
+    <th><strong>Годы обучения</strong></th>
+    <th><strong>Учебное заведение</strong></th>
+  </tr>
+  <tr>
+    <td>высшее</td>
+    <td>2011 - 2016гг</td>
+    <td>Самарский Государственный университет Путей Сообщения,
          Электротехнический факультет,
-         специализация: Электроснабжение железных дорог.</tr>
-    <tr> The Rolling Scopes School
+         специализация: Электроснабжение железных дорог.<</td>
+  </tr>
+  <tr>
+    <td>курсы</td>
+    <td>март - сетябрь 2023г.</td>
+    <td>The Rolling Scopes School
          JavaScript/Front-End
-         сертификат: https://app.rs.school/certificate/5gk7jj0g</tr>
-    <tr> Образовательная платформа Skillbox,
-         ReactJS<tr/>
-    </td>
-    </tr>
-  </table>
+         сертификат: https://app.rs.school/certificate/5gk7jj0g</td>
+  </tr>
+  <tr>
+    <td>курсы</td>
+    <td>ноябрь 2023 - наст.время</td>
+    <td>Образовательная платформа Skillbox,
+         ReactJS</td>
+  </tr>
+</table>
 </Html>
 
 ## О себе:
