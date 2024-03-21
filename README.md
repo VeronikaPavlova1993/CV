@@ -91,5 +91,3 @@ ___
  <br>Приложение с новостной лентой с Reddit (обучающий проект Skillbox)
 <br>Технологический стек: CSS, TS, React, Redux.
 <br>https://github.com/VeronikaPavlova1993/News-Reddit
-<br>
-___
