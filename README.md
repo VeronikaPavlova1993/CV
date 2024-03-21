@@ -45,8 +45,8 @@
     <td>курсы</td>
     <td>март - сетябрь 2023г.</td>
     <td>The Rolling Scopes School
-         JavaScript/Front-End
-         сертификат: https://app.rs.school/certificate/5gk7jj0g</td>
+         <br>JavaScript/Front-End
+         <br>[сертификат](ttps://app.rs.school/certificate/5gk7jj0g)</td>
   </tr>
   <tr>
     <td>курсы</td>
@@ -81,9 +81,12 @@
 * Git
 
 ## Проекты:
-___
- RS-CSS (обучающий проект в RS School)
+ [RS-CSS](https://veronikapavlova1993.github.io/RS-CSS/) (обучающий проект в RS School)
 <br>Технологический стек: CSS, TypeScript, Webpack.
 <br>https://github.com/VeronikaPavlova1993/RS-CSS
 ___
-deploy: https://veronikapavlova1993.github.io/RS-CSS/
+ [Новосная лента с Reddit](https://veronikapavlova1993.github.io/RS-CSS/) (обучающий проект Skillbox)
+<br>Технологический стек: CSS, TS, React, Redux.
+<br>https://github.com/VeronikaPavlova1993/News-Reddit
+___
+
