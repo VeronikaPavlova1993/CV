@@ -86,7 +86,7 @@
 <br>Технологический стек: CSS, TypeScript, Webpack.
 <br>https://github.com/VeronikaPavlova1993/RS-CSS
 ___
- <br>Новосная лента с Reddit (обучающий проект Skillbox)
+ <br>Приложение с новостной лентой с Reddit (обучающий проект Skillbox)
 <br>Технологический стек: CSS, TS, React, Redux.
 <br>https://github.com/VeronikaPavlova1993/News-Reddit
 ___
