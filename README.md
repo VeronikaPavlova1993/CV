@@ -82,11 +82,11 @@
 * Git
 
 ## Проекты:
- [RS-CSS](https://veronikapavlova1993.github.io/RS-CSS/) (обучающий проект в RS School)
+<br>[RS-CSS](https://veronikapavlova1993.github.io/RS-CSS/) (обучающий проект в RS School)
 <br>Технологический стек: CSS, TypeScript, Webpack.
 <br>https://github.com/VeronikaPavlova1993/RS-CSS
 ___
- Новосная лента с Reddit (обучающий проект Skillbox)
+ <br>Новосная лента с Reddit (обучающий проект Skillbox)
 <br>Технологический стек: CSS, TS, React, Redux.
 <br>https://github.com/VeronikaPavlova1993/News-Reddit
 ___
