@@ -37,7 +37,7 @@
     <td>2012 - 2015гг</td>
     <td>Самарский Государственный университет Путей Сообщения,
         <br> Факультет дополнительного образования,
-        <br>специализация: Переводчик в сфере профессиональных коммуникажий (электроснабжение ж.д транспорта)
+        <br>специализация: Переводчик в сфере профессиональных коммуникаций (электроснабжение ж.д транспорта)
         <br> язык: английский
     </td>
   </tr>
@@ -46,7 +46,7 @@
     <td>март - сетябрь 2023г.</td>
     <td>The Rolling Scopes School
          <br>JavaScript/Front-End
-         <br>[сертификат](https://app.rs.school/certificate/5gk7jj0g)</td>
+         <br> [сертификат](https://app.rs.school/certificate/5gk7jj0g) </td>
   </tr>
   <tr>
     <td>курсы</td>
@@ -79,15 +79,16 @@
 * JS
 * TS
 * React
+* Redux
 * Git
 
 ## Проекты:
 <br>[RS-CSS](https://veronikapavlova1993.github.io/RS-CSS/) (обучающий проект в RS School)
 <br>Технологический стек: CSS, TypeScript, Webpack.
-<br>https://github.com/VeronikaPavlova1993/RS-CSS
+<br> [Ссылка на репозиторий](https://github.com/VeronikaPavlova1993/RS-CSS)
 <br>
 ___
 <br>
  <br>Приложение с новостной лентой с Reddit (обучающий проект Skillbox)
 <br>Технологический стек: CSS, TS, React, Redux.
-<br>https://github.com/VeronikaPavlova1993/News-Reddit
+<br> [Ссылка на репозиторий](https://github.com/VeronikaPavlova1993/News-Reddit)
