@@ -77,10 +77,13 @@
 * HTML
 * CSS(Sass)
 * JS
-* TS
+* Основы TS
 * React
 * Redux
 * Git
+* Webpack
+* Есть небольшой опыт работы в команде (написание финального проекта курса в команде из 3-х человек)
+
 
 ## Проекты:
 <br>[RS-CSS](https://veronikapavlova1993.github.io/RS-CSS/) (обучающий проект в RS School)
